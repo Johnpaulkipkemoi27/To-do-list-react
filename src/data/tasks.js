@@ -17,7 +17,7 @@ export const tasks = [
     {
       id: "4",
       title: "Study JS map method",
-      completed: true
+      completed: false
     },
     {
       id: "5",
